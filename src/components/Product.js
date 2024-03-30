@@ -6,7 +6,7 @@ function Product() {
     const { search } = useLocation();
 
   return (
-    <div>Product: {productId}, {name}, {search} </div>
+    <div>Product: {productId}, {name}, {search} , test</div>
   )
 }
 
